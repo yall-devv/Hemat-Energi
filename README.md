@@ -8,10 +8,10 @@ Proyek UTS Mata Kuliah Pemrograman Web.
 
 | No | Nama | NIM | Tugas |
 |----|------|-----|-------|
-| 1 | [Nama Anggota 1] | [NIM 1] | [Tugas] |
-| 2 | [Nama Anggota 2] | [NIM 2] | [Tugas] |
-| 3 | [Nama Anggota 3] | [NIM 3] | [Tugas] |
-| 4 | [Nama Anggota 4] | [NIM 4] | [Tugas] |
+| 1 | I Gede Diptha Taurusya DananJaya | 2515091117 | [Tugas] |
+| 2 | Dennise Joshua Marcellino | 2515091113 | [Tugas] |
+| 3 | Kadek Ryal Satriawan Putra | 2515091133 | [Tugas] |
+| 4 | A.A. Alit Pradnya Nata | 2515091118 | [Tugas] |
 
 ## Deskripsi Website
 
