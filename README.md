@@ -111,8 +111,6 @@ hemat-energi/
 └── README.md
 ```
 
-Gambar berformat SVG (ilustrasi vektor buatan sendiri), bukan JPG.
-
 ## Cara Menjalankan Secara Lokal
 
 1. Unduh atau salin folder proyek.
@@ -139,4 +137,3 @@ Gambar berformat SVG (ilustrasi vektor buatan sendiri), bukan JPG.
 - ENERGY STAR — Energy Savings at Home: https://www.energystar.gov/saveathome
 - Energi YLKI: https://energi.ylki.or.id/
 
-**Atribusi aset:** semua ilustrasi SVG dibuat khusus untuk proyek ini. Ikon kartu memakai emoji bawaan perangkat. Jika aset diganti, catat sumber dan lisensinya di sini dan di halaman Tentang.
