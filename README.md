@@ -91,26 +91,6 @@ Gaya dasar untuk smartphone, lalu `min-width: 768px` untuk tablet dan `min-width
 - Tautan antarbagian memakai anchor `#id`.
 - Efek hover dan `:focus-visible` memakai CSS.
 
-## Struktur Folder
-
-```
-hemat-energi/
-├── index.html
-├── edukasi.html
-├── panduan.html
-├── artikel.html
-├── tentang.html
-├── css/
-│   └── style.css
-├── images/
-│   ├── logo.svg
-│   ├── favicon.svg
-│   ├── hero-house.svg
-│   ├── solar-panel.svg
-│   └── energy-saving.svg
-└── README.md
-```
-
 ## Cara Menjalankan Secara Lokal
 
 1. Unduh atau salin folder proyek.
