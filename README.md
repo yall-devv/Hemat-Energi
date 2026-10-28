@@ -8,10 +8,10 @@ Proyek UTS Mata Kuliah Pemrograman Web.
 
 | No | Nama | NIM | Tugas |
 |----|------|-----|-------|
-| 1 | I Gede Diptha Taurusya DananJaya | 2515091117 | [Tugas] |
-| 2 | Dennise Joshua Marcellino | 2515091113 | [Tugas] |
-| 3 | Kadek Ryal Satriawan Putra | 2515091133 | [Tugas] |
-| 4 | A.A. Alit Pradnya Nata | 2515091118 | [Tugas] |
+| 1 | I Gede Diptha Taurusya DananJaya | 2515091117 | Mengembangkan README.md dan index.html |
+| 2 | Dennise Joshua Marcellino | 2515091113 |  Membuat tampilan website menggunakan style.css |
+| 3 | Kadek Ryal Satriawan Putra | 2515091133 | Membuat dan mengembangan halaman Panduan.html dan Tentang.html |
+| 4 | A.A. Alit Pradnya Nata | 2515091118 | Membuat dan mengembangkan halaman Edukasi.html dan Artikel.html  |
 
 ## Deskripsi Website
 
